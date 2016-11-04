@@ -1,6 +1,6 @@
 function private() {
   return 'private';
-};
+}
 
 module.exports = {
   pigeons: Math.floor(Math.random() * 100),
